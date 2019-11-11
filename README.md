@@ -36,3 +36,5 @@
 ## Exercise VI:
 
 - Add the text from the following [file](/assets/logo.txt) into your html page so that it looks **exactly** like it does in the file.
+
+Just in case you lose the link: https://github.com/wi-fighters/06-uib-content-basic-structure-SimonSchoetz
